@@ -12,7 +12,7 @@ Explore the basic design and structure of the inventory and client management sy
 
 Here're some of the project's best features:
 
-*   This project contains a total of 6 screens. In each screen such as the products example you can add new products consult the products modify them and also delete them.
+*   This project contains a total of 6 screens. In each screen such as the products example you can add new products, consult the products, modify them, and also delete them.
 
 ## 💻 Built with
 
