@@ -24,8 +24,8 @@ Technologies used in the project:
 
 ## 📸 Project Screenshots:
 
-<img src="https://i.imgur.com/mwai0yC.png" alt="project-screenshot" width="800" height="600"/>
+<img src="https://i.imgur.com/mwai0yC.png" alt="project-screenshot" width="1200"/>
 
-<img src="https://i.imgur.com/BxGNRC6.png" alt="project-screenshot" width="800" height="600"/>
+<img src="https://i.imgur.com/BxGNRC6.png" alt="project-screenshot" width="1200"/>
 
 ---
